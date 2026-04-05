@@ -20,3 +20,7 @@ Files in this Repository
 * `Global_Energy_3D_Globe`: Full version with 3D modeling.
 * `Global_Energy_Web_Accessible`: Web-optimized version.
 * `Energy_Data_Source.csv`: The raw dataset used for the analysis.
+
+
+https://github.com/user-attachments/assets/8db7c4be-ad04-42be-a31b-c6454e709401
+
