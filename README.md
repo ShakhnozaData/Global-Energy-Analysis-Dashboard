@@ -17,6 +17,6 @@ Technical Implementation
   * **Time Slicers:** Fully animated play-axis for historical trend analysis.
 
 Files in this Repository
-* `Global_Energy`: Full version with 3D modeling.
-* `Global_Energy2.pbix`: Web-optimized version.
+* `Global_Energy_3D_Globe`: Full version with 3D modeling.
+* `Global_Energy_Web_Accessible`: Web-optimized version.
 * `Energy_Data_Source.csv`: The raw dataset used for the analysis.
